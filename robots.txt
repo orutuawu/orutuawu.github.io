@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://orutuawu.github.io/sitemap_index.orutuawu
